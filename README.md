@@ -1,5 +1,5 @@
 
-# How To
+### How To
 
 * download
 ```
@@ -18,3 +18,12 @@
     cd prepare/librimix && bash gen_tiny.sh
     cd prepare/librimix-informed && bash prepare_data.sh /home/zhao/data/librimix/Libri2Mix /home/zhao/code/spex+ /home/zhao/data/librimix-informed
 ```
+
+* run
+```
+    bash train.sh
+```
+
+### Credits
+
+* [SpEx_Plus](https://github.com/gemengtju/SpEx_Plus)
